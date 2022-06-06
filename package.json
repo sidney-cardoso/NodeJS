@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "Sidney Cardoso",
+  "license": "MIT",
+  "devDependencies": {
+    "cfonts": "^3.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "opn": "^6.0.0"
+  }
+}
